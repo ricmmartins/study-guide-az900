@@ -18,67 +18,67 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 ### :bulb: Describe Cloud Concepts (20-25%)
 #### Identify the benefits and considerations of using cloud service
 * Identify the benefits of cloud computing, such as High Availability, Scalability, Elasticity, Agility, and Disaster Recovery
-  * [Quais são algumas vantagens da computação em nuvem?](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
-  * [Benefícios da computação em nuvem](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#benefits)
-  * [Benefícios da migração para nuvem](https://azure.microsoft.com/en-us/overview/cloud-migration-benefits-challenges/#overview)
-  * [Como funciona o Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure)
+  * [What are some cloud computing advantages?](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Benefits of cloud computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#benefits)
+  * [Benefits of cloud migration](https://azure.microsoft.com/en-us/overview/cloud-migration-benefits-challenges/#overview)
+  * [How does Azure work?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure)
 * Identify the differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx)
-  * [Casos de uso da Nuvem: CapEx, OpEx](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/07-economics)
-  * [Despesas de capital versus despesas operacionais](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Cloud use cases: CapEx, OpEx](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/07-economics)
+  * [Capital expenses vs. operating expenses](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 * Describe the consumption-based model
-  * [A computação em nuvem é um modelo baseado em consumo](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Cloud computing is a consumption-based model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 #### Describe the differences between categories of cloud services
 * Describe the shared responsibility mode
-  * [Responsabilidade compartilhada na nuvem](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+  * [Shared responsibility in the cloud](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 * Describe the shared responsibility mode
-  * [O que é IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/) 
+  * [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/) 
 * Describe Platform-as-a-Service (PaaS)
-  * [O que é PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/) 
+  * [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/) 
 * Describe serverless computing
-  * [O que é computação sem servidor](https://azure.microsoft.com/en-us/overview/serverless-computing/) 
+  * [What is serverless computing?](https://azure.microsoft.com/en-us/overview/serverless-computing/) 
 * Describe Software-as-a-Service (SaaS)
-  * [O que é SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/) 
+  * [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/) 
 * Identify a service type based on a use case
-  * [Quais os tipos de computação em nuvem](https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/)
-  * [Descrever diferentes serviços de nuvem](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
-  * [Blocos de construção da nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
+  * [What are the different types of cloud computing services?](https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/)
+  * [Describe different cloud services](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
+  * [Building blocks of the cloud](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
 #### Describe the differences between types of cloud computing
 * Define cloud computing
-  * [O que é a computação em nuvem - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
+  * [What is cloud computing?](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 * Describe Public cloud
-  * [O que é nuvem pública?](https://azure.microsoft.com/en-us/overview/what-is-a-public-cloud/)
+  * [What is a public cloud?](https://azure.microsoft.com/en-us/overview/what-is-a-public-cloud/)
 * Describe Private cloud
-  * [O que é nuvem privada?](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/)
+  * [What is a private cloud?](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/)
 * Describe Hybrid cloud
-  * [O que é nuvem híbrida?](https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/)
+  * [What is a private cloud?](https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/)
 * Dompare and contrast the three types of cloud computing
-  * [Discutir diferentes tipos de modelos de nuvem](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) 
+  * [Discuss different types of cloud models](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) 
 ### :bulb: Describe Core Azure Services (15-20%)
 #### Describe the core Azure architectural components
 * Describe the benefits and usage of Regions and Region Pairs
-  * [Pares de regiões](https://docs.microsoft.com/en-us/azure/virtual-machines/regions#region-pairs)
-  * [Lista completa de pareamento das regiões](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies)
-  * [Benefícios da replicação entre regiões](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#benefits-of-cross-region-replication)
-  * [Replicação entre regiões](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#cross-region-replication)
+  * [Region pairs](https://docs.microsoft.com/en-us/azure/virtual-machines/regions#region-pairs)
+  * [Azure cross-region replication pairings for all geographies](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies)
+  * [Benefits of cross-region replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#benefits-of-cross-region-replication)
+  * [Cross-region replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#cross-region-replication)
 * Describe the benefits and usage of Availability Zones
-  * [Regiões e zonas de disponibilidade](https://docs.microsoft.com/en-us/azure/availability-zones/overview#regions-and-availability-zones)
-  * [Visão geral das regiões e zonas de disponibilidade](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
-  * [Regiões do Azure, zonas de disponibilidade e pares de regiões - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
-  * [Infográfico de resiliência no Azure](https://azure.microsoft.com/en-us/resources/azure-resiliency-infographic/)
+  * [Regions and availability zones](https://docs.microsoft.com/en-us/azure/availability-zones/overview#regions-and-availability-zones)
+  * [Overview of regions and availability zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+  * [Azure regions, availability zones, and region pairs](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
+  * [Resiliency in Azure - Infographic](https://azure.microsoft.com/en-us/resources/azure-resiliency-infographic/)
 * Describe the benefits and usage of Resource Groups
-  * [O que é um grupo de recursos](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)   
-  * [Fatores importantes para considerar sobre a definição de resource groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups)
+  * [What is a resource group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#what-is-a-resource-group)   
+  * [Factors to consider when defining your resource group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups)
 * Describe the benefits and usage of Subscriptions
-  * [O que é uma assinatura do Azure](https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/3-implement-azure-subscriptions)   
-  * [Guia de decisão de assinaturas](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
-  * [Tipos de assinaturas](https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/4-obtain-subscription)
+  * [What is an Azure subscriptions](https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/3-implement-azure-subscriptions)   
+  * [Subscription decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
+  * [Subscription types](https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/4-obtain-subscription)
  * Describe the benefits and usage of Management Groups
-  * [Organizar e gerenciar várias assinaturas do Azure com os grupos de gerenciamento](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)  
-  * [O que são grupos de gerenciamento do Azure](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
-  * [Visão geral de assinaturas, grupos de gerenciamento e recursos do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/overview)
+  * [Organize and manage multiple Azure subscriptions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)  
+  * [What are Azure management groups?](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
+  * [Overview of Azure subscriptions, management groups, and resources](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/overview)
 * Describe the benefits and usage of Azure Resource Manager
-  * [O que é o Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
-  * [Benefícios do Gerenciador de Recursos](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#the-benefits-of-using-resource-manager)
+  * [What is Azure Resource Manager?r](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+  * [The benefits of using Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#the-benefits-of-using-resource-manager)
 * Explain Azure resources
 #### Describe core resources available in Azure
 * Describe the benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Azure Virtual Desktop
