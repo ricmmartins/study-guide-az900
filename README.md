@@ -161,92 +161,90 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 :bookmark: Microsoft Learn module covering all these topics: [Secure access to your applications by using Azure identity services](https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/)
 #### Describe Azure governance features
 * Describe the functionality and usage of Role-Based Access Control (RBAC)
-  * [O que é o RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
+  * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
 * Describe the functionality and usage of resource locks
-  * [Bloqueando recursos para evitar alterações inesperadas](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources) 
+  * [Lock resources to prevent unexpected changes](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources) 
 * Describe the functionality and usage of tags
-  * [Uso de tags para organizar recursos do Azure e a hierarquia de gerenciamento](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
-  * [Guia de decisão sobre o uso de tags](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/#tagging-decision-guide)
+  * [Use tags to organize your Azure resources and management hierarchy](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
+  * [Tagging decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/#tagging-decision-guide)
 * Describe the functionality and usage of Azure Policy
-  * [O que é o Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
-  * [Introdução ao Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
+  * [What is Azure Policy?](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+  * [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
 * Describe the functionality and usage of Azure Blueprints
-  * [O que é o Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
-  * [Introdução ao Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
+  * [What is Azure Blueprints?](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+  * [Intro to Azure blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * Describe the Cloud Adoption Framework for Azure
-  * [O que é o Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
-  * [Inforgráfico sobre o CAF](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-adoption-framework/Cloud%20Adoption%20Framework.pdf)
+  * [What is the Microsoft Cloud Adoption Framework for Azure?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
+  * [Infographic - CAF](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-adoption-framework/Cloud%20Adoption%20Framework.pdf)
 
 :bookmark: Microsoft Learn module covering all these topics: [Build a cloud governance strategy on Azure](https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/)
 #### Describe privacy and compliance resources
 * Describe the Microsoft core tenets of Security, Privacy, and Compliance
-  * [Segurança, Privacidade e Conformidade na Central de Confiabilidade](https://www.microsoft.com/en-us/trust-center/product-overview)
-  * [Visão geral da privacidade](https://docs.microsoft.com/en-us/compliance/assurance/assurance-privacy)
-  * [Declaração de conformidade do Azure](https://docs.microsoft.com/en-us/azure/compliance/)
-  * [Guia de avaliação de risco](https://docs.microsoft.com/en-us/compliance/assurance/assurance-risk-assessment-guide)
+  * [Security. Privacy and Compliante at Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview)
+  * [Privacy overview](https://docs.microsoft.com/en-us/compliance/assurance/assurance-privacy)
+  * [Risk Assessment Guide for Microsoft Cloud](https://docs.microsoft.com/en-us/compliance/assurance/assurance-risk-assessment-guide)
   * [Trusted Cloud PDF](https://download.microsoft.com/download/1/6/0/160216AA-8445-480B-B60F-5C8EC8067FCA/WindowsAzure-SecurityPrivacyCompliance.pdf)
 * Describe the purpose of the Microsoft Privacy Statement, Online Services Terms (OST) and Data Protection Amendment (DPA)
-  * [Política de Privacidade da Microsoft](https://privacy.microsoft.com/en-us/privacystatement)
-  * [Termos de Licenciamento](https://www.microsoft.com/en-us/licensing/product-licensing/products)
-  * [Emenda de Proteção de Dados (DPA)](http://www.aka.ms/DPA)
+  * [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
+  * [Licensing terms](https://www.microsoft.com/en-us/licensing/product-licensing/products)
+  * [Microsoft Products and Services Data Protection Addendum (DPA)](http://www.aka.ms/DPA)
 * Describe the purpose of the Trust Center
-  * [Microsoft Trust Center (Central de Confiabilidade)](https://www.microsoft.com/en-us/trust-center)
+  * [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center)
 * Describe the purpose of the Azure compliance documentation
-  * [Documentação de conformidade do Azure](https://docs.microsoft.com/en-us/azure/compliance/) 
+  * [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/) 
 * Describe the purpose of Azure Sovereign Regions (Azure Government cloud services and Azure China cloud services)
-  * [Guia de decisão das regiões do Azure - Soberania nacional](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions)
-  * [Azure China](https://docs.microsoft.com/en-us/azure/china/overview-operations)
-  * [Azure para o governo dos EUA](https://azure.microsoft.com/en-us/global-infrastructure/government/#why-azure)
+  * [Azure regions decision guide - Sovereignty:](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions)
+  * [What is Azure China](https://docs.microsoft.com/en-us/azure/china/overview-operations)
+  * [Azure for US Government](https://azure.microsoft.com/en-us/global-infrastructure/government/#why-azure)
 
 :bookmark: Microsoft Learn module covering all these topics: [Examine privacy, compliance, and data protection standards on Azure](https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/)
 ### :bulb: Describe Azure cost management and Service Level Agreements (10-15%)
 #### Describe methods for planning and managing costs
 * Identify factors that can affect costs (resource types, services, locations, ingress and egress traffic)
-  * [Página sobre preços do Azure](https://azure.microsoft.com/en-us/pricing/)
-  * [Preços relacionados ao uso de largura de banda](https://azure.microsoft.com/en-us/pricing/details/bandwidth/)
+  * [Azure pricing](https://azure.microsoft.com/en-us/pricing/)
+  * [Bandwidth pricing](https://azure.microsoft.com/en-us/pricing/details/bandwidth/)
 * Identify factors that can reduce costs (reserved instances, reserved capacity, hybrid use benefit, spot pricing)
-  * [Reservas de instância e capacidade no Azure](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)
-  * [Benefício híbrido do Azure](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/)
-  * [Instâncias spot](https://azure.microsoft.com/en-us/services/virtual-machines/spot/#overview)
+  * [Bandwidth pricing](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+  * [Azure Hybrid Benefit](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/)
+  * [Sport Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/spot/#overview)
 * Describe the functionality and usage of the Pricing calculator and the Total Cost of Ownership (TCO) calculator
-  * [Calculadora de preços do Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
-  * [Calculadora de TCO](https://azure.microsoft.com/en-us/pricing/tco/calculator/) 
+  * [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+  * [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/) 
 * Describe the functionality and usage of Azure Cost Management
-  * [O que é o Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
-  * [Como otimizar seu investimento na nuvem com o Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)
-  * [Planejando o gerenciamento de custos do Azure](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)
+  * [What is Cost Management + Billing?](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
+  * [How to optimize your cloud investment with Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)
+  * [Plan to manage Azure costs](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)
 
 :bookmark: Microsoft Learn module covering all these topics: [Plan and manage your Azure costs](https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/)
 #### Describe Azure Service Level Agreements (SLAs) and service lifecycles
 * Dscribe Azure Service Level Agreements (SLAs) and service lifecycles
-  * [Contratos de nível de serviço do Azure](https://azure.microsoft.com/en-us/support/legal/sla/)
-  * [Sumário de SLA dos serviços do Azure](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+  * [Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
+  * [SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
 * Identify actions that can impact an SLA (i.e. Availability Zones)
-  * [SLAs compostos](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics#composite-slas)
-  * [SLAs para implantações de várias regiões](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics#slas-for-multiregion-deployments)
+  * [Composite SLAs](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics#composite-slas)
+  * [SLAs for multiregion deployments](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics#slas-for-multiregion-deployments)
 * Describe the service lifecycle in Azure (Public Preview and General Availability)
-  * [O que é o ciclo de vida do serviço?](https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/5-access-preview-services)
-  * [Descrevendo as versões de disponibilidade particular (private preview), pública (public preview) e geral (ga/general available)](https://docs.microsoft.com/en-us/learn/modules/describe-service-life-cycle-microsoft-365/2-private-public-general-availability)
-  * [Termos suplementares sobre o uso de serviços em Preview](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/)
-  * [Diferenças entre serviços em GA, Private e Public Preview](https://vunvulear.medium.com/differences-between-ga-private-and-public-preview-on-azure-services-and-features-7ccdd42aa294)
-
+  * [What is the service lifecycle?](https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/5-access-preview-services)
+  * [Describe private, public preview, and general availability releases](https://docs.microsoft.com/en-us/learn/modules/describe-service-life-cycle-microsoft-365/2-private-public-general-availability)
+  * [Supplemental Terms of Use for Microsoft Azure Previews](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/)
+ 
 :bookmark: Microsoft Learn module covering all these topics: [Choose the right Azure services by examining SLAs and service lifecycle](https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ## Extras
 
-* [Detalhes sobre o exame Az-900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
-* [Poster de Certificações](http://aka.ms/traincertposter)
-* [Crie uma conta de Azure gratuita](https://azure.microsoft.com/en-us/free/)
-* [Acesso ao ambiente de simulação da prova de certificação](https://aka.ms/examdemo)
+* [AZ-900 Overview](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+* [Certification poster](http://aka.ms/traincertposter)
+* [Free Azure account sign-up](https://azure.microsoft.com/en-us/free/)
+* [Exam environment simulation](https://aka.ms/examdemo)
 * [Azure Infrastructure Map](http://infrastructuremap.microsoft.com/)
-* [Noções básicas da administração de nuvem](https://docs.microsoft.com/en-us/learn/paths/cmu-admin/)
-  * [Fundamentos da computaçãom em nuvem para administradores](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Provisionar e gerenciar serviços de nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Proteja seus recursos de nuvem com controle de acesso](https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Virtualizar recursos na nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Dimensionse seus recursos de nuvem com elasticidade](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Automatizar o gerenciamento de recursos de nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Monitorar recursos da nuvem](https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+* [Cloud administration basics](https://docs.microsoft.com/en-us/learn/paths/cmu-admin/)
+  * [Foundations of cloud computing for administrators](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Provision and manage cloud services](https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Secure your cloud resources with access control](https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Virtualize resources in the cloud](https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Scale your cloud resources with elasticity](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Automate cloud resource management](https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+  * [Monitor cloud resources](https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
-## Mostre seu apoio
-Clicque na ⭐️ se este material ajudou você!
+## Show your support
+Give a ⭐️ if this project helped you!
