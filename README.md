@@ -82,81 +82,81 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Explain Azure resources
 #### Describe core resources available in Azure
 * Describe the benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Azure Virtual Desktop
-  * [Explore os serviços de computação do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/) 
+  * [Explore Azure compute services](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/) 
 * Describe the benefits and usage of Virtual Networks, VPN Gateway, Virtual Network peering, and ExpressRoute
-  * [Explore os serviços de rede do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/) 
+  * [Explore Azure networking services](https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/) 
 * Describe the benefits and usage of Container (Blob) Storage, Disk Storage, File Storage, and storage tiers
-  * [Explore os serviços de storage do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/)
+  * [Explore Azure Storage services](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/)
 * Describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and Azure SQL Managed Instance
-  * [Explore os serviços de banco de dados e análise de dados do Azure](https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/)
+  * [Explore Azure database and analytics services](https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/)
 * Describe the benefits and usage of Azure Marketplace
-  * [O que é o Azure Marketplace?](https://docs.microsoft.com/en-us/marketplace/azure-marketplace-overview) 
+  * [What is Azure Marketplace?](https://docs.microsoft.com/en-us/marketplace/azure-marketplace-overview) 
 ### :bulb: Describe core solutions and management tools on Azure (10-15%)
 #### Describe core solutions available in Azure
 * Describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere
-  * [Descubra os serviços de IoT do Azure e seus benefícios](https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/)
+  * [Choose the best Azure IoT service for your application](https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/)
 * Describe the benefits and usage of Azure Synapse Analytics, HDInsight, and Azure Databricks
-  * [Introdução ao Azure Synapse Analytics](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/)
-  * [Introdução ao HDInsight](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/)
-  * [Introdução ao Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/get-started-azure-databricks/)
+  * [Introduction to Azure Synapse Analytics](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/)
+  * [Introduction to Azure Synapse Analytics](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/)
+  * [Get started with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/get-started-azure-databricks/)
 * Describe the benefits and usage of Azure Machine Learning, Cognitive Services and Azure Bot Service
-  * [Descubra os serviços de IA do Azure e seus benefícios](https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/) 
+  * [Choose the best AI service for your needs](https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/) 
 * Describe the benefits and usage of serverless computing solutions that include Azure Functions and Logic Apps
-  * [Descubra os serviços de computação sem servidor (serverless) do Azure](https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/) 
+  * [Choose the best Azure serverless technology for your business scenario](https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/) 
 * Describe the benefits and usage of Azure DevOps, GitHub, GitHub Actions, and Azure DevTest Labs
-  * [Introdução ao Azure DevOps, Github e Azure DevTest Labs](https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/)
+  * [Introduction to Azure DevOps, Github and Azure DevTest Labs](https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/)
 #### Describe Azure management tools
 * Describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI, Cloud Shell, and Azure Mobile App
-  * [Fundamentos de gerenciamento do Azure](https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/) 
+  * [Choose the best tools for managing and configuring your Azure environment](https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/) 
 * Describe the functionality and usage of Azure Advisor
-  * [Introdução ao Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview)
-  * [Módulo de Introdução ao Azure Advisor no Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
+  * [Azure Advisor Overview](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview)
+  * [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
 * Describe the functionality and usage of Azure Resource Manager (ARM) templates
-  * [O que são os Templates ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
-  * [Implantar e gerenciar recursos no Azure usando modelos do ARM em JSON](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/)
+  * [What are ARM templates?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+  * [Deploy and manage resources in Azure by using JSON ARM templates](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/)
 * Describe the functionality and usage of Azure Monitor
-  * [Fundamentos de monitoramento do Azure](https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/) 
-  * [Visão geral do Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) 
+  * [Choose the best monitoring service for visibility, insight, and outage mitigation](https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/) 
+  * [Azure Monitor overview](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) 
 * Describe the functionality and usage of Azure Service Health
-  * [O que é o Azure Service Health](https://docs.microsoft.com/en-us/azure/service-health/overview)
-  * [Introdução ao Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
+  * [What is Azure Service Health?](https://docs.microsoft.com/en-us/azure/service-health/overview)
+  * [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
 ### :bulb: Describe general security and network security features (10-15%)
 #### Describe general security and network security features
 * Describe basic features of Azure Security Center, including policy compliance, security alerts, secure score, and resource hygiene
-  * [Protegendo-se contra ameaças à segurança no Azure](https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/)
+  * [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/)
 * Describe the functionality and usage of Azure Key Vault
-  * [Visão geral sobre o Azure KeyVault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
+  * [Intro to Azure Service Health](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
 * Describe the functionality and usage of Azure Sentinel
-  * [O que é o Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+  * [What is Microsoft Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
 * Describe the functionality and usage of Azure Dedicated Hosts
-  * [O que são os hosts dedicados do Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts)
+  * [Azure Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts)
 #### Describe Azure network security
 * Describe the concept of defense in depth
-  *  [O que é defesa em profundidade](https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/2-what-is-defense-in-depth)
-  *  [Melhores práticas fundamentais: Defesa em profundidade](https://docs.microsoft.com/pt-pt/azure/ddos-protection/fundamental-best-practices#defense-in-depth)
-  *  [Estratégias de segurança de rede](https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-network)
-  *  [Entendendo a segurança dos datacenter da Microsoft](https://docs.microsoft.com/en-us/learn/modules/audit-physical-security/)
+  *  [What is defense in depth?](https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/2-what-is-defense-in-depth)
+  *  [Fundamental best practices: Defense in depth](https://docs.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices#defense-in-depth)
+  *  [Network security strategy](https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-network)
+  *  [Understand Microsoft datacenter security](https://docs.microsoft.com/en-us/learn/modules/audit-physical-security/)
 * Describe the functionality and usage of Network Security Groups (NSG)
-  *  [Visão geral dos grupos de segurança de rede](https://docs.microsoft.com/pt-pt/azure/virtual-network/network-security-groups-overview)
+  *  [Network security groups](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
 * Describe the functionality and usage of Azure Firewall
-  * [O que é o Firewall do Azure](https://docs.microsoft.com/en-us/azure/firewall/overview)
+  * [What is Azure Firewall?](https://docs.microsoft.com/en-us/azure/firewall/overview)
 * Describe the functionality and usage of Azure DDoS protection
-  * [Visão geral do serviço de proteção contra DDoS do Azure](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+  * [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
 
 :bookmark: Microsoft Learn module covering all these topics: [Secure network connectivity on Azure](https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/)
 ### :bulb: Describe identity, governance, privacy, and compliance features (15-20%)
 #### Describe core Azure identity service
 * Explain the difference between authentication and authorization
-  * [Autenticação versus autorização](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
+  * [Authentication vs. authorization](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
 * Define Azure Active Directory
-  * [O que é o Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+  * [What is Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
 * Describe the functionality and usage of Azure Active Directory
-  * [Comparando o Active Directory com o Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
-  * [Como as assinaturas do Azure se relacionam com o Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-  * [Guia de implantação do Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-checklist-p2)
-  * [Tenants (locatários) do Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant)
+  * [Compare Active Directory to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
+  * [How Azure subscriptions relate to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+  * [Azure Active Directory deployment guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-checklist-p2)
+  * [Azure Active Directory Tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant)
 * Describe the functionality and usage of Conditional Access, Multi-Factor Authentication (MFA), and Single Sign-On (SSO)
-  * [O que é o acesso condicional](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+  * [What is Conditional Access?](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
 
 :bookmark: Microsoft Learn module covering all these topics: [Secure access to your applications by using Azure identity services](https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/)
 #### Describe Azure governance features
