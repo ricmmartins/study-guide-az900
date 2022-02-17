@@ -2,7 +2,7 @@
 
 This guide is intended to provide a list of pre-selected materials to help anyone starting a cloud computing career and/or discovering Azure prepare for (and pass) the AZ-900 exam.
 
-*Last update on February 15, 2022*
+*Last update on February 17, 2022*
 
 ## 📋 Learning Path from [Microsoft Learn](https://aka.ms/learn) for Exam AZ-900
 
@@ -247,4 +247,4 @@ This guide is intended to provide a list of pre-selected materials to help anyon
   * [Monitor cloud resources](https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Show your support
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this content helped you!
