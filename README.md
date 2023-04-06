@@ -21,10 +21,20 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Define cloud computing
   * [What is cloud computing?](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 * Describe the shared responsibility model
+  * [Shared responsibility in the cloud](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 * Define cloud models, including public, private, and hybrid
+  * [Different types of cloud model](https://learn.microsoft.com/en-us/training/modules/fundamental-azure-concepts/types-of-cloud-computing) 
 * Identify appropriate use cases for each cloud model
+  * [What are the different types of cloud computing services?](https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/)
+  * [Describe different cloud services](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)
+  * [Building blocks of the cloud](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/04-building-blocks)
 * Describe the consumption-based model
+  * [Cloud computing is a consumption-based model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 * Compare cloud pricing models
+  * [Cloud use cases: CapEx, OpEx](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/07-economics)
+  * [Capital expenses vs. operating expenses](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+  * [Cloud computing is a consumption-based model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+
 
 #### Describe the benefits of using cloud services
 * Describe the benefits of high availability and scalability in the cloud
