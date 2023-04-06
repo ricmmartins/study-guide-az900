@@ -104,6 +104,7 @@ subnets, peering, Azure DNS, Azure VPN Gateway, and Azure ExpressRoute
   * [Explore Azure Storage services](https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/)
 * Describe storage tiers
   * [Hot, cool, and archive access tiers for blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
+  * [Understand Blob access tiers](https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/azure-storage-tiers)
 * Describe redundancy options
   * [Azure storage redundancy](https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 * Describe storage account options and storage types
