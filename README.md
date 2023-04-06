@@ -38,45 +38,85 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 #### Describe the benefits of using cloud services
 * Describe the benefits of high availability and scalability in the cloud
+  * [Describe the benefits of high availability and scalability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 * Describe the benefits of reliability and predictability in the cloud
+  * [Describe the benefits of reliability and predictability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud)   
 * Describe the benefits of security and governance in the cloud
+  * [Describe the benefits of security and governance in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud)
 * Describe the benefits of manageability in the cloud
+  * [Describe the benefits of manageability in the cloud](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud)
 
 #### Describe cloud service types
 * Describe infrastructure as a service (IaaS)
+  * [What is IaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
 * Describe platform as a service (PaaS)
+  * [What is PaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/)
 * Describe software as a service (SaaS)
-* Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS)
+  * [What is SaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/)
 
 ### :bulb: Describe Azure architecture and services (35–40%)
 
 #### Describe the core architectural components of Azure
 * Describe Azure regions, region pairs, and sovereign regions
+  * [Azure regions, availability zones, and region pairs](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/regions-availability-zones)
 * Describe availability zones
+  * [Regions and availability zones](https://learn.microsoft.com/en-us/azure/reliability/overview#regions-and-availability-zones)
+  * [What is resiliency in Azure?](https://azure.microsoft.com/en-us/resources/azure-resiliency-infographic/)
 * Describe Azure datacenters
+  * [Azure Global Infrastructure](https://azure.microsoft.com/en-us/explore/global-infrastructure/)
+  * [What are Azure regions and availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
+  * [Microsoft Datacenter Virtual Tour](https://datacenters-wp-production.azurewebsites.net/)
+  * [We live in Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
 * Describe Azure resources and resource groups
+  * [What is an Azure resource?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource)
+  * [What is an Azure resource group?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource-group)
+* Describe availability zone?
+  * [Availability zones](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview#availability-zones)
 * Describe subscriptions
+  * [What is an Azure subscription?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-subscription)
 * Describe management groups
+  * [Azure management groups](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions?source=recommendations#azure-management-groups)
 * Describe the hierarchy of resource groups, subscriptions, and management groups
+  * [Hierarchy of management groups and subscriptions](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview#hierarchy-of-management-groups-and-subscriptions)
+  * [Management levels and hierarchy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources#management-levels-and-hierarchy)
 
 #### Describe Azure compute and networking services
 * Compare compute types, including container instances, virtual machines (VMs), and functions
+  * [Containers vs. virtual machines](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm) 
+  * [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 * Describe VM options, including Azure Virtual Machines, Azure Virtual Machine Scale Sets,
 availability sets, and Azure Virtual Desktop
+  * [Explore Azure compute services](https://learn.microsoft.com/en-us/training/modules/azure-compute-fundamentals/)
+  * [What is an availability set?](https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview#what-is-an-availability-set)
 * Describe resources required for virtual machines
+  * [Required resources for IaaS Virtual Machines](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/2-compile-a-checklist-for-creating-a-vm) 
 * Describe application hosting options, including the Web Apps feature of Azure App Service,
 containers, and virtual machines
+  * [Explore Azure compute services](https://learn.microsoft.com/en-us/training/modules/azure-compute-fundamentals/)
 * Describe virtual networking, including the purpose of Azure Virtual Networks, Azure virtual
 subnets, peering, Azure DNS, Azure VPN Gateway, and Azure ExpressRoute
+  * [Explore Azure networking services](https://learn.microsoft.com/en-us/training/modules/azure-networking-fundamentals/)
 * Define public and private endpoints
+  * [Difference between service endpoint and private endpoint](https://stackoverflow.com/questions/73769449/azure-difference-between-service-endpoint-and-private-endpoint-in-simple-terms)
 
 #### Describe Azure storage services
 * Compare Azure storage services
+  * [Explore Azure Storage services](https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/)
 * Describe storage tiers
+  * [Hot, cool, and archive access tiers for blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
 * Describe redundancy options
+  * [Azure storage redundancy](https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 * Describe storage account options and storage types
+  * [Types of storage accounts](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview#types-of-storage-accounts)
 * Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
+  * [Choose an Azure solution for data transfer](https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution)
+  * [Transfer data with AzCopy and file storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-files)
+  * [Small dataset, low to moderate network bandwidth](https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-small-dataset-low-moderate-network#recommended-options)
+  * [Large dataset, moderate to high network bandwidth](https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-moderate-high-network?#high-network-bandwidth-1-gbps---100-gbps)
 * Describe migration options, including Azure Migrate and Azure Data Box
+  * [Choose an Azure solution for data transfer](https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution)
+  * [Azure Storage Migration Tools Comparison](https://learn.microsoft.com/en-us/azure/storage/solution-integration/validated-partners/data-management/migration-tools-comparison)
+  * [What is Azure Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
 
 #### Describe Azure identity, access, and security
 * Describe directory services in Azure, including Microsoft Azure Active Directory (Azure AD), part
