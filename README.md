@@ -206,7 +206,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Identify factors that can reduce costs (reserved instances, reserved capacity, hybrid use benefit, spot pricing)
   * [Bandwidth pricing](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)
   * [Azure Hybrid Benefit](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/)
-  * [Sport Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/spot/#overview)
+  * [Spot Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/spot/#overview)
 * Describe the functionality and usage of the Pricing calculator and the Total Cost of Ownership (TCO) calculator
   * [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
   * [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/) 
