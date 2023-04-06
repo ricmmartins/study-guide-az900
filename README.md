@@ -19,6 +19,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 #### Describe cloud computing
 * Define cloud computing
+  * [What is cloud computing?](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 * Describe the shared responsibility model
 * Define cloud models, including public, private, and hybrid
 * Identify appropriate use cases for each cloud model
