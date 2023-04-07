@@ -122,15 +122,32 @@ subnets, peering, Azure DNS, Azure VPN Gateway, and Azure ExpressRoute
 #### Describe Azure identity, access, and security
 * Describe directory services in Azure, including Microsoft Azure Active Directory (Azure AD), part
 of Microsoft Entra and Azure Active Directory Domain Services (Azure AD DS)
+  * [What is Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+  * [Compare Active Directory to Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
+  * [How Azure subscriptions relate to Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+  * [Azure Active Directory Tenant](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant)
+  * [Microsoftr Entra](https://learn.microsoft.com/en-us/entra/)
+  * [Meet Microsoft Entra](https://www.microsoft.com/en-us/security/blog/?p=114039)
+  * [What is Azure Active Directory Domain Services?](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
 * Describe authentication methods in Azure, including single sign-on (SSO), multifactor
 authentication, and passwordless
+  * [Authentication vs. authorization](https://learn.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
+  * [What authentication and verification methods are available in Azure Active Directory?](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods)
 * Describe external identities and guest access in Azure
+  * [External Identities in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/external-identities-overview)
+  * [Guest users in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b#collaborate-with-any-partner-using-their-identities)
 * Describe Conditional Access in Microsoft Azure Active Directory (Azure AD), part of Microsoft
 Entra
+  * [What is Conditional Access?](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
 * Describe Azure role-based access control (RBAC)
+  * [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
 * Describe the concept of Zero Trust
+  * [Zero Trust Security](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust)
 * Describe the purpose of the defense in depth model
+  * [Microsoft Azure's defense in depth approach to cloud vulnerabilities](https://azure.microsoft.com/en-us/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/)
+  * [Defense in depth](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-security/2-defense-in-depth)
 * Describe the purpose of Microsoft Defender for Cloud
+  * [What is Microsoft Defender for Cloud?](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
 
 ### :bulb: Describe Azure management and governance (30–35%)
 
