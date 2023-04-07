@@ -136,9 +136,18 @@ Entra
 
 #### Describe cost management in Azure
 * Describe factors that can affect costs in Azure
+  * [Azure Pricing](https://azure.microsoft.com/en-us/pricing/)
+  * [Bandwith pricing](https://azure.microsoft.com/en-us/pricing/details/bandwidth/)
 * Compare the Pricing calculator and the Total Cost of Ownership (TCO) calculator
+ * [Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+ * [The Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 * Describe the Azure Cost Management and Billing tool
+ * [What is Cost Management + Billing?](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
+ * [How to optimize your cloud investment with Cost Management](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)
+ * [Plan to manage Azure costs](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)
 * Describe the purpose of tags
+ * [Use tags to organize your Azure resources and management hierarchy](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json)
+ * [Tagging decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide#tagging-decision-guide)
 
 #### Describe features and tools in Azure for governance and compliance
 * Describe the purpose of Azure Blueprints
