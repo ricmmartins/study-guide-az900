@@ -142,9 +142,15 @@ Entra
 
 #### Describe features and tools in Azure for governance and compliance
 * Describe the purpose of Azure Blueprints
+  * [What is Azure Blueprints](https://learn.microsoft.com/en-us/azure/governance/blueprints/overview)  
+  * [Introduction to Azure Blueprints](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-blueprints/)
 * Describe the purpose of Azure Policy
+  * [What is Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
+  * [Introduction to Azure Policy](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-policy/) 
 * Describe the purpose of resource locks
+  * [Lock your resources to protect your infrastructure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
 * Describe the purpose of the Service Trust Portal
+  * [Get started with Microsot Service Trust Portal](https://learn.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide)
 
 #### Describe features and tools for managing and deploying Azure resources
 * Describe the Azure portal
