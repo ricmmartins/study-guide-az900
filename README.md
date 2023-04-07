@@ -163,9 +163,18 @@ Entra
 
 #### Describe features and tools for managing and deploying Azure resources
 * Describe the Azure portal
+  * [Choose the best tools for managing and configuring your Azure environment](https://learn.microsoft.com/en-us/training/modules/management-fundamentals/)
+  * [What is the Azure Portal?](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
 * Describe Azure Cloud Shell, including Azure CLI and Azure PowerShell
+  * [Overview of Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
+  * [What is the Azure CLI?](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
+  * [What is Azure PowerShell?](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell?view=azps-9.6.0)
 * Describe the purpose of Azure Arc
+ * [Azure ARC Overview](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
 * Describe Azure Resource Manager and Azure Resource Manager templates (ARM templates)
+  * [What is Azure Resource Manager?](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+  * [What are ARM templates?](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+  * [Deploy and manage resources in Azure by using JSON ARM templates](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
 
 #### Describe monitoring tools in Azure
 * Describe the purpose of Azure Advisor
