@@ -169,8 +169,16 @@ Entra
 
 #### Describe monitoring tools in Azure
 * Describe the purpose of Azure Advisor
+ * [Azure Advisor Overview](https://learn.microsoft.com/en-us/azure/advisor/advisor-overview)
+ * [Introduction to Azure Advisor](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-advisor/)
 * Describe Azure Service Health
+ * [What uis Azure Service Health?](https://learn.microsoft.com/en-us/azure/service-health/overview)
+ * [Intro to Azure Service Health](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-service-health/)
 * Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
+ * [Choose the best monitoring service for visibility, insight, and outage mitigation](https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/)
+ * [Describe monitoring tools in Azure](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/)
+ * [Monitor app performance](https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/)
+ * [Improve incident response with alerting on Azure](https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/)
 
 ## Extras
 
