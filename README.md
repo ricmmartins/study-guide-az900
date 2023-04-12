@@ -13,7 +13,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * [Microsoft Azure Fundamentals: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 * [Microsoft Azure Fundamentals: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-## 📝 Skills Meaasured - [Obtained from the official link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+## 📝 Skills Measured - [Obtained from the official link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
 ### :bulb: Describe cloud concepts (25–30%)
 
