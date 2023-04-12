@@ -15,7 +15,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 ## 📝 Skills Measured - [Obtained from the official link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
-### :bulb: Describe cloud concepts (25–30%)
+### 💡 Describe cloud concepts (25–30%)
 
 #### Describe cloud computing
 * Define cloud computing
@@ -54,7 +54,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Describe software as a service (SaaS)
   * [What is SaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/)
 
-### :bulb: Describe Azure architecture and services (35–40%)
+### 💡 Describe Azure architecture and services (35–40%)
 
 #### Describe the core architectural components of Azure
 * Describe Azure regions, region pairs, and sovereign regions
@@ -149,7 +149,7 @@ Entra
 * Describe the purpose of Microsoft Defender for Cloud
   * [What is Microsoft Defender for Cloud?](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
 
-### :bulb: Describe Azure management and governance (30–35%)
+### 💡 Describe Azure management and governance (30–35%)
 
 #### Describe cost management in Azure
 * Describe factors that can affect costs in Azure
