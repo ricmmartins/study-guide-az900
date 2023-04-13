@@ -2,6 +2,8 @@
 
 This guide is intended to provide a list of pre-selected materials to help anyone starting a cloud computing career and/or discovering Azure prepare for (and pass) the AZ-900 exam.
 
+> **_NOTE:_**  A version in Brazilian-Portuguese is [available here](https://github.com/ricmmartins/guia-estudo-az900)
+
 *Last update on April 7, 2023*
 
 ## 📋 Learning Path from [Microsoft Learn](https://aka.ms/learn) for Exam AZ-900
