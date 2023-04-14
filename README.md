@@ -185,8 +185,8 @@ Entra
   * [Choose the best tools for managing and configuring your Azure environment](https://learn.microsoft.com/en-us/training/modules/management-fundamentals/)
   * [What is the Azure Portal?](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
 * Describe Azure Cloud Shell, including Azure CLI and Azure PowerShell
-  * [Overview of Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
-  * [What is the Azure CLI?](https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview)
+  * [Overview of Azure Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/overview)
+  * [What is the Azure CLI?](https://learn.microsoft.com/pt-br/cli/azure/what-is-azure-cli)
   * [What is Azure PowerShell?](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell?view=azps-9.6.0)
 * Describe the purpose of Azure Arc
  * [Azure ARC Overview](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
