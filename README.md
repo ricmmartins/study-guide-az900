@@ -225,4 +225,4 @@ Entra
   * [Monitor cloud resources](https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
 
 ## Show your support
-Give a ⭐️ if this content helped you!
+Give the project's GitHub repository a ⭐️ if this content helped you!
