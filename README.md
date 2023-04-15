@@ -1,6 +1,6 @@
 # 📗 Study Guide for Microsoft Azure Fundamentals exam (AZ-900)
 
-This guide is intended to provide a list of pre-selected materials to help anyone starting in the  cloud computing career and/or discovering Azure be ready the AZ-900 exam.
+This guide is intended to provide a list of pre-selected materials to help anyone starting in the  cloud computing career and/or discovering Azure be ready to the AZ-900 exam.
 
 > **_NOTE:_**  A version in Brazilian-Portuguese is [available here](https://github.com/ricmmartins/guia-estudo-az900)
 
