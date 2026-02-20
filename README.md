@@ -54,7 +54,9 @@ This guide is intended to provide a list of pre-selected materials to help anyon
   * [What is PaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/)
 * Describe software as a service (SaaS)
   * [What is SaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/)
-
+* Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)
+  * [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
+  
 ### 💡 Describe Azure architecture and services (35–40%)
 
 #### Describe the core architectural components of Azure
