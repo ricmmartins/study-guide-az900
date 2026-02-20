@@ -4,7 +4,7 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 > **_NOTE:_**  A version in Brazilian-Portuguese is [available here](https://github.com/ricmmartins/guia-estudo-az900)
 
-*Last update on April 7, 2023*
+*Last update on February 20, 2026*
 
 ## 📋 Learning Path from [Microsoft Learn](https://aka.ms/learn) for Exam AZ-900
 
