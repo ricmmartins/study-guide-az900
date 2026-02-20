@@ -8,14 +8,12 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 ## 📋 Learning Path from [Microsoft Learn](https://aka.ms/learn) for Exam AZ-900
 
-* [Microsoft Azure Fundamentals: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-* [Microsoft Azure Fundamentals: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
-* [Microsoft Azure Fundamentals: Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
-* [Microsoft Azure Fundamentals: Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
-* [Microsoft Azure Fundamentals: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
-* [Microsoft Azure Fundamentals: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+* [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+* [Introduction to Cloud Infrastructure: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+* [Introduction to Cloud Infrastructure: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
-## 📝 Skills Measured - [Obtained from the official link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+
+## 📝 Skills Measured - [Obtained from the official link](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#skills-measured-as-of-january-14-2026)
 
 ### 💡 Describe cloud concepts (25–30%)
 
