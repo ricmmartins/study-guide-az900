@@ -34,7 +34,8 @@ This guide is intended to provide a list of pre-selected materials to help anyon
   * [Cloud use cases: CapEx, OpEx](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/07-economics)
   * [Capital expenses vs. operating expenses](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
   * [Cloud computing is a consumption-based model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
-
+* Describe serverless
+  * [What is serverless computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-serverless-computing/)
 
 #### Describe the benefits of using cloud services
 * Describe the benefits of high availability and scalability in the cloud
