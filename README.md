@@ -123,25 +123,22 @@ subnets, peering, Azure DNS, Azure VPN Gateway, and Azure ExpressRoute
   * [What is Azure Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
 
 #### Describe Azure identity, access, and security
-* Describe directory services in Azure, including Microsoft Azure Active Directory (Azure AD), part
-of Microsoft Entra and Azure Active Directory Domain Services (Azure AD DS)
-  * [What is Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
-  * [Compare Active Directory to Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
-  * [How Azure subscriptions relate to Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-  * [Azure Active Directory Tenant](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant)
+* Describe directory services in Azure,  Microsoft Entra ID and Microsoft Entra Domain Services
+  * [What is Entra ID](https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra)
+  * [Compare Active Directory to Microsoft Entra IDy](https://learn.microsoft.com/en-us/entra/fundamentals/compare
+  * [Associate or add an Azure subscription to your Microsoft Entra tenant](https://learn.microsoft.com/en-us/entra/fundamentals/how-subscriptions-associated-directory)
+  * [Set up a new Microsoft Entra tenant]([https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant))
   * [Microsoftr Entra](https://learn.microsoft.com/en-us/entra/)
   * [Meet Microsoft Entra](https://www.microsoft.com/en-us/security/blog/?p=114039)
-  * [What is Azure Active Directory Domain Services?](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
-* Describe authentication methods in Azure, including single sign-on (SSO), multifactor
-authentication, and passwordless
-  * [Authentication vs. authorization](https://learn.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
-  * [What authentication and verification methods are available in Azure Active Directory?](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods)
+  * [What is Entra Domain Services?](https://learn.microsoft.com/en-us/entra/identity/domain-services/overview)
+* Describe authentication methods in Azure, including single sign-on (SSO), multifactor authentication, and passwordless
+  * [Authentication vs. authorization](https://learn.microsoft.com/en-us/entra/identity-platform/authentication-vs-authorization)
+  * [What is Microsoft Entra authentication?](https://learn.microsoft.com/en-us/entra/identity/authentication/overview-authentication)
 * Describe external identities and guest access in Azure
-  * [External Identities in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/external-identities-overview)
-  * [Guest users in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b#collaborate-with-any-partner-using-their-identities)
-* Describe Conditional Access in Microsoft Azure Active Directory (Azure AD), part of Microsoft
-Entra
-  * [What is Conditional Access?](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+  * [Introduction to Microsoft Entra External ID](https://learn.microsoft.com/en-us/entra/external-id/external-identities-overview)
+  * [Guest users in Entra]([https://learn.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b#collaborate-with-any-partner-using-their-identities](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b#collaborate-with-any-partner-using-their-identities))
+* Describe Microsoft Enrta Conditional Access
+  * [What is Conditional Access?](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
 * Describe Azure role-based access control (RBAC)
   * [What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
 * Describe the concept of Zero Trust
@@ -170,16 +167,14 @@ Entra
   * [Tagging decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide#tagging-decision-guide)
 
 #### Describe features and tools in Azure for governance and compliance
-* Describe the purpose of Azure Blueprints
-  * [What is Azure Blueprints](https://learn.microsoft.com/en-us/azure/governance/blueprints/overview)  
-  * [Introduction to Azure Blueprints](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-blueprints/)
+* Describe the purpose of Microsoft Purview in Azure
+  * [Learn about Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)  
 * Describe the purpose of Azure Policy
   * [What is Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
   * [Introduction to Azure Policy](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-policy/) 
 * Describe the purpose of resource locks
   * [Lock your resources to protect your infrastructure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
-* Describe the purpose of the Service Trust Portal
-  * [Get started with Microsot Service Trust Portal](https://learn.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide)
+
 
 #### Describe features and tools for managing and deploying Azure resources
 * Describe the Azure portal
@@ -191,6 +186,8 @@ Entra
   * [What is Azure PowerShell?](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell?view=azps-9.6.0)
 * Describe the purpose of Azure Arc
  * [Azure ARC Overview](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
+* Describe infrastructure as code (IaC)
+  * [What is infrastructure as code](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)
 * Describe Azure Resource Manager and Azure Resource Manager templates (ARM templates)
   * [What is Azure Resource Manager?](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
   * [What are ARM templates?](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
